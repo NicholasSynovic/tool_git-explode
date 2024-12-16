@@ -12,6 +12,9 @@ classifiers = ["Development Status :: 1 - Planning"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+progress = "^1.6"
+click = "^8.1.7"
+pygit2 = "^1.16.0"
 
 
 [build-system]
